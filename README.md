@@ -21,14 +21,11 @@ Eedo is a smart, interactive app that lets you create your own AI personas tailo
 - 🧠 **Custom AI Personas**  
   Create and customize AI personalities like:
   - Chill Teacher 🧑‍🏫  
-  - Study Buddy 📚  
+  - Study Buddy 📚
+  - BFF
   - Virtual Girlfriend/Boyfriend 💞  
-  - Travel Partner 🌍  
   - Therapist Listener 🛋️  
   - Motivational Coach 💪  
-  - Meme Lord 🤪  
-  - Gaming Pal 🎮  
-  - Sleepy Bedtime Storyteller 🌙  
   ...and so much more!
 
 - 🎭 **Behavior & Personality Control**  
