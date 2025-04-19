@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![Downloads](https://img.shields.io/github/downloads/yannn001/Eedo---AI/total.svg)
+
 **Your Personalized AI Friend — Just the Way You Like It!**
 
 Eedo is a smart, interactive app that lets you create your own AI personas tailored to your needs. Whether you want a chill teacher to help with studies, a best friend to vibe with, or a virtual boyfriend/girlfriend to chat with — this app has you covered. The possibilities are endless!
